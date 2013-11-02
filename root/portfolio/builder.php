@@ -5,7 +5,7 @@
 </header>
 <div class="main">
 	<h2>3d application</h2>
-	<h3><a href="http://www.arcestra.com/site/how_arcestra_works.jsp">arcestra.com</a></h3>
+	<h3><a href="https://arcestra.com/index2.jsp">arcestra.com</a></h3>
 	<p>At Arcestra, I performed feature development on the Arcestra 3D product suite using the Qt and OpenGL APIs (with C++). The main project I worked on was the Arcestra Builder application, used to quickly and easily render 3D models from 2D floorplans and then define walkthroughs and arrange furniture (along with other functionality) on these 3D models.</p>
 	<a href="/assets/img/portfolio/screenjpb3.jpg" title="Floorplan with Line Length Showing and Snap Tolerance" class="img">
 		<img src="/assets/img/portfolio/screenjpb3.jpg" alt="Floorplan with Line Length Showing and Snap Tolerance"/>
