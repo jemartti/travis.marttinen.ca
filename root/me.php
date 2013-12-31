@@ -4,14 +4,10 @@
 	<h1><a href="/root/index.php">me</a></h1>
 </header>
 <div class="main">
-	<h2><a href="https://github.com/jemartti">github</a></h2>
-	<h2><a href="https://www.codeplex.com/site/users/view/jemartti">codeplex</a></h2>
-	<h2><a href="http://www.linkedin.com/in/jacobmarttinen">linkedin</a></h2>
-	<h2><a href="http://www.flickr.com/photos/jacobmarttinen">flickr</a></h2>
-	<h2>+1.443.630.2647</h2>
-	<h2><a href="mailto:jacob@marttinen.ca">jacob@marttinen.ca</a></h2>
-	<a href="/assets/img/me.jpg" title="Portrait of Jacob Marttinen" class="img">
-		<img src="/assets/img/me.jpg" alt="Portrait of Jacob Marttinen"/>
+	<h2>+1.249.877.3085</h2>
+	<h2><a href="mailto:travis@marttinen.ca">travis@marttinen.ca</a></h2>
+	<a href="http://farm3.staticflickr.com/2831/11662516383_12e9ea4a48_o.jpg" title="Portrait of Travis Marttinen" class="img">
+		<img src="http://farm3.staticflickr.com/2831/11662516383_d1b8d71e82_z.jpg" alt="Portrait of Travis Marttinen"/>
 	</a>
 </div>
 
